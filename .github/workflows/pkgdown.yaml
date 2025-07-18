@@ -38,7 +38,7 @@ jobs:
 
       # 4) Render całej strony do domyślnego folderu _site/
       - name: Render Quarto project
-        run: quarto render
+        run: quarto render index.qmd
 
       # 5) Deploy do gałęzi gh‑pages (GitHub Pages)
       - name: Publish to gh-pages 🚀
