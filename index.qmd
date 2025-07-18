@@ -1,5 +1,5 @@
 ---
-title: "Opis"
+title: "Opis projektu"
 format: html
 editor: visual
 ---
